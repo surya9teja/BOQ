@@ -1,37 +1,37 @@
 # BOQ
-Software for calculating BOQ material for tendor 
-Program compile and run in google Collabs
-# Column order of uploading Excel file .xlsx 
-A => SL.No
-B => Name
-C => Voltage(KV)
-D => Lenght of fiber(Km)
-E =>Total lenght of fiber(Km)
-F =>Total towers(No's)
-G =>Tension towers(No's)
-H =>Suspension towers(No's)
-I =>Single suspension Assembly(set)
-J =>single Tension Assembly for Dead End loaction(No's)
-k =>Double Tension Assembly for joint box location(set)
-L =>Double Tension assembly for pass through(set)
-M =>Vibration damper with protection rod(set)
-N =>Joint Box(No's)
-O =>Surplus cable support(No's)
-P =>Tower Height(m)
-Q =>Downlead clamp(No's)
-R =>FODP(No's)
-S =>Approach cable(m)
-T =>HDPE Duct(m)
-U =>End Plug(no)
-V =>Pushfit Coupler(no)
-W =>Cable sealing(no)
-X =>U clamp(no)
+Software for calculating BOQ material for tendor<br/>
+Program compile and run in google Collabs<br/>
+# Column order of uploading Excel file .xlsx
+A => SL.No<br/>
+B => Name<br/>
+C => Voltage(KV)<br/>
+D => Lenght of fiber(Km)<br/>
+E =>Total lenght of fiber(Km)<br/>
+F =>Total towers(No's)<br/>
+G =>Tension towers(No's)<br/>
+H =>Suspension towers(No's)<br/>
+I =>Single suspension Assembly(set)<br/>
+J =>single Tension Assembly for Dead End loaction(No's)<br/>
+k =>Double Tension Assembly for joint box location(set)<br/>
+L =>Double Tension assembly for pass through(set)<br/>
+M =>Vibration damper with protection rod(set)<br/>
+N =>Joint Box(No's)<br/>
+O =>Surplus cable support(No's)<br/>
+P =>Tower Height(m)<br/>
+Q =>Downlead clamp(No's)<br/>
+R =>FODP(No's)<br/>
+S =>Approach cable(m)<br/>
+T =>HDPE Duct(m)<br/>
+U =>End Plug(no)<br/>
+V =>Pushfit Coupler(no)<br/>
+W =>Cable sealing(no)<br/>
+X =>U clamp(no)<br/>
 ## Usage instructions
-1.Load file to google collabs
-2.Uplaod the .xlsx file to compute
-3.Change the path and file_name as per your case
-4.Run it
-5. Download the computed file
+1.Load file to google collabs<br/>
+2.Uplaod the .xlsx file to compute<br/>
+3.Change the path and file_name as per your case<br/>
+4.Run it<br/>
+5. Download the computed file from files tab in google collabs<br/>
 
 
 
