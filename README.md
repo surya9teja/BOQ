@@ -1,5 +1,5 @@
 # BOQ
-Software for calculating BOQ material for tendor<br/>
+python script for calculating BOQ material<br/>
 Program compile and run in google Collabs<br/>
 # Column order of uploading Excel file .xlsx
 A => SL.No<br/>
