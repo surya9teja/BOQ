@@ -33,7 +33,7 @@ X =>U clamp(no)<br/>
 4.Run it<br/>
 5. Download the computed file from files tab in google collabs<br/>
 
-##Note
+## Note
 BOQ for 24F,48F row starts from 2 and 24F + 48F row starts from 3
 Make the file as per the instructions 
 
